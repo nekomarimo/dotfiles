@@ -75,5 +75,5 @@ set backspace=2
 set noimdisable
 set iminsert=0 imsearch=0
 set noimcmdline
-inoremap <silent> <ESC> <ESC>:set iminsert=0<CR>
+" inoremap <silent> <ESC> <ESC>:set iminsert=0<CR>
 set helplang=ja
